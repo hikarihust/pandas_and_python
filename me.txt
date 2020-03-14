@@ -29,3 +29,5 @@ Create A Series Object from a Python List
         dtype: bool
 
 Create A Series Object from a Python Dictionary
+
+Attributes
