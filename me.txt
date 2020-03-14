@@ -31,3 +31,5 @@ Create A Series Object from a Python List
 Create A Series Object from a Python Dictionary
 
 Attributes
+
+Methods
