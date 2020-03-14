@@ -37,3 +37,5 @@ Methods
 Parameters and Arguments
 
 Import Series with the .read_csv() Method
+
+The .head() and .tail() Methods
