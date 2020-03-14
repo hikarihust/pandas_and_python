@@ -35,3 +35,5 @@ Attributes
 Methods
 
 Parameters and Arguments
+
+Import Series with the .read_csv() Method
