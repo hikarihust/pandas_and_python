@@ -33,3 +33,5 @@ Create A Series Object from a Python Dictionary
 Attributes
 
 Methods
+
+Parameters and Arguments
