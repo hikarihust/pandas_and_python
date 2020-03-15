@@ -43,3 +43,5 @@ The .head() and .tail() Methods
 Python Built-In Functions
 
 More Series Attributes
+
+The .sort_values() Method
