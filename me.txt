@@ -59,3 +59,5 @@ Math Methods on Series Objects
 The .idxmax() and .idxmin() Methods
 
 The .value_counts() Method
+
+The .apply() Method
