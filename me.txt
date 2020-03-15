@@ -41,3 +41,5 @@ Import Series with the .read_csv() Method
 The .head() and .tail() Methods
 
 Python Built-In Functions
+
+More Series Attributes
