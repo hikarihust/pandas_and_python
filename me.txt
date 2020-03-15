@@ -49,3 +49,5 @@ The .sort_values() Method
 The .sort_index() Method
 
 Python's in Keyword
+
+Extract Series Values by Index Label
