@@ -57,3 +57,5 @@ The .get() Method on a Series
 Math Methods on Series Objects
 
 The .idxmax() and .idxmin() Methods
+
+The .value_counts() Method
