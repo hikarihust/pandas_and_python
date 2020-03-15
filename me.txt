@@ -53,3 +53,5 @@ Python's in Keyword
 Extract Series Values by Index Label
 
 The .get() Method on a Series
+
+Math Methods on Series Objects
