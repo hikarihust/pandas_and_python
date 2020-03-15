@@ -45,3 +45,5 @@ Python Built-In Functions
 More Series Attributes
 
 The .sort_values() Method
+
+The .sort_index() Method
