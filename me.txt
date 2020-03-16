@@ -1,63 +1,67 @@
-Create A Series Object from a Python List
-    import pandas as pd
-    ice_cream = ["Chocolate", "Vanilla", "Strawberry", "Run Raisin"]
-    pd.Series(ice_cream)
-        0     Chocolate
-        1       Vanilla
-        2    Strawberry
-        3    Run Raisin
-        dtype: object
-    ice_cream
-        ['Chocolate', 'Vanilla', 'Strawberry', 'Run Raisin']
-    ice_cream[0]
-        'Chocolate'
-    lottery=[4,8,15,16,23,42]
-    pd.Series(lottery)
-        0     4
-        1     8
-        2    15
-        3    16
-        4    23
-        5    42
-        dtype: int64
-    registrations=[True, False, False, False]
-    pd.Series(registrations)
-        0     True
-        1    False
-        2    False
-        3    False
-        dtype: bool
+                                        Series
+                                        
+    Create A Series Object from a Python List
+        import pandas as pd
+        ice_cream = ["Chocolate", "Vanilla", "Strawberry", "Run Raisin"]
+        pd.Series(ice_cream)
+            0     Chocolate
+            1       Vanilla
+            2    Strawberry
+            3    Run Raisin
+            dtype: object
+        ice_cream
+            ['Chocolate', 'Vanilla', 'Strawberry', 'Run Raisin']
+        ice_cream[0]
+            'Chocolate'
+        lottery=[4,8,15,16,23,42]
+        pd.Series(lottery)
+            0     4
+            1     8
+            2    15
+            3    16
+            4    23
+            5    42
+            dtype: int64
+        registrations=[True, False, False, False]
+        pd.Series(registrations)
+            0     True
+            1    False
+            2    False
+            3    False
+            dtype: bool
 
-Create A Series Object from a Python Dictionary
+    Create A Series Object from a Python Dictionary
 
-Attributes
+    Attributes
 
-Methods
+    Methods
 
-Parameters and Arguments
+    Parameters and Arguments
 
-Import Series with the .read_csv() Method
+    Import Series with the .read_csv() Method
 
-The .head() and .tail() Methods
+    The .head() and .tail() Methods
 
-Python Built-In Functions
+    Python Built-In Functions
 
-More Series Attributes
+    More Series Attributes
 
-The .sort_values() Method
+    The .sort_values() Method
 
-The .sort_index() Method
+    The .sort_index() Method
 
-Python's in Keyword
+    Python's in Keyword
 
-Extract Series Values by Index Label
+    Extract Series Values by Index Label
 
-The .get() Method on a Series
+    The .get() Method on a Series
 
-Math Methods on Series Objects
+    Math Methods on Series Objects
 
-The .idxmax() and .idxmin() Methods
+    The .idxmax() and .idxmin() Methods
 
-The .value_counts() Method
+    The .value_counts() Method
 
-The .apply() Method
+    The .apply() Method
+
+    The .map() Method
