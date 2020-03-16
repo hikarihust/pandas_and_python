@@ -1,5 +1,5 @@
                                         Series
-                                        
+
     Create A Series Object from a Python List
         import pandas as pd
         ice_cream = ["Chocolate", "Vanilla", "Strawberry", "Run Raisin"]
@@ -65,3 +65,9 @@
     The .apply() Method
 
     The .map() Method
+
+====================================================================================================
+
+                                DataFrames
+
+DataFrames | Module
