@@ -77,3 +77,5 @@ Shared Methods and Attributes between Series and DataFrames
 Differences between Shared Methods
 
 Select One Column from a DataFrame
+
+Select Two or More Columns from a DataFrame
