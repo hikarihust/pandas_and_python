@@ -73,3 +73,5 @@
 DataFrames | Module
 
 Shared Methods and Attributes between Series and DataFrames
+
+Differences between Shared Methods
