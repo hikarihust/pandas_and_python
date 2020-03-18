@@ -85,3 +85,5 @@ Add New Column to DataFrame
 Broadcasting Operations
 
 A Review of the .value_counts() Method
+
+Drop Rows with Null Values
