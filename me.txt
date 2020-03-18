@@ -83,3 +83,5 @@ Select Two or More Columns from a DataFrame
 Add New Column to DataFrame
 
 Broadcasting Operations
+
+A Review of the .value_counts() Method
