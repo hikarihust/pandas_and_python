@@ -89,3 +89,5 @@ A Review of the .value_counts() Method
 Drop Rows with Null Values
 
 Fill in Null Values with the .fillna() Method
+
+The .astype() Method
