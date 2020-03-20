@@ -111,3 +111,5 @@ Filter with More than One Condition (OR)
 The .isin() Method
 
 The .isnull() and .notnull() Methods
+
+The .between() Method
