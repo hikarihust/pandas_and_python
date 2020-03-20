@@ -117,3 +117,6 @@ The .between() Method
 The .duplicated() Method
     mask = ~df["First Name"].duplicated(keep = False)
     df[mask]
+
+The .drop_duplicates() Method
+    len(df)
