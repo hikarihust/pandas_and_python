@@ -126,3 +126,12 @@ The .unique() and .nunique() Methods
 Import Dataset jamesbond
 
 The .set_index() and .reset_index() Methods
+
+Retrieve Rows by Index Label with .loc[]
+    print("Gold Bond" in bond.index)
+    df = bond.loc[["Moonraker", "Octopussy"]]
+    print(df["Year"])
+    df.to_csv("./test.csv")
+    df = df.reset_index(drop=True)
+    print(df)
+    df.to_csv("./test2.csv", index_label=False, index= False)
