@@ -95,3 +95,5 @@ The .astype() Method
 Sort a DataFrame with the .sort_values() Method
 
 Sort DataFrame with the .sort_index() Method
+
+Rank Values with the .rank() Method
