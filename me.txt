@@ -140,3 +140,5 @@ Retrieve Row(s) by Index Position with iloc
     bond2 = pd.read_csv("../jamesbond.csv", index_col = "Film")
     bond2.sort_index(inplace = True)
     print(bond2.iloc[[0, 5, 10, 15, 20]])
+
+Second Arguments to .loc[], .iloc[]
