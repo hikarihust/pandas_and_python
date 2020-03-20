@@ -105,3 +105,5 @@ Filter A DataFrame Based On A Condition
         df["Salary"] > 110000 -> True
 
 Filter with More than One Condition (AND)
+
+Filter with More than One Condition (OR)
