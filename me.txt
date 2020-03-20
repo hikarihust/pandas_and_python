@@ -93,3 +93,5 @@ Fill in Null Values with the .fillna() Method
 The .astype() Method
 
 Sort a DataFrame with the .sort_values() Method
+
+Sort DataFrame with the .sort_index() Method
