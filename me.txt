@@ -107,3 +107,5 @@ Filter A DataFrame Based On A Condition
 Filter with More than One Condition (AND)
 
 Filter with More than One Condition (OR)
+
+The .isin() Method
