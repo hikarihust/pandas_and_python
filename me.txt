@@ -124,3 +124,5 @@ The .drop_duplicates() Method
 The .unique() and .nunique() Methods
 
 Import Dataset jamesbond
+
+The .set_index() and .reset_index() Methods
