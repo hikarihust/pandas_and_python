@@ -135,3 +135,8 @@ Retrieve Rows by Index Label with .loc[]
     df = df.reset_index(drop=True)
     print(df)
     df.to_csv("./test2.csv", index_label=False, index= False)
+
+Retrieve Row(s) by Index Position with iloc
+    bond2 = pd.read_csv("../jamesbond.csv", index_col = "Film")
+    bond2.sort_index(inplace = True)
+    print(bond2.iloc[[0, 5, 10, 15, 20]])
