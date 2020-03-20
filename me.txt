@@ -109,3 +109,5 @@ Filter with More than One Condition (AND)
 Filter with More than One Condition (OR)
 
 The .isin() Method
+
+The .isnull() and .notnull() Methods
