@@ -99,3 +99,7 @@ Sort DataFrame with the .sort_index() Method
 Rank Values with the .rank() Method
 
 This Module's Dataset + Memory Optimization
+
+Filter A DataFrame Based On A Condition
+    print(df[df["Salary"] > 110000])
+        df["Salary"] > 110000 -> True
