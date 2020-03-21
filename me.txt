@@ -156,3 +156,5 @@ Rename Index Labels or Columns in a DataFrame
     2  3  6
 
 Delete Rows or Columns from a DataFrame
+
+Create Random Sample
