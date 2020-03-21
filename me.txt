@@ -171,3 +171,9 @@ A Review of the .apply() Method on Single Columns
 The .apply() Method with Row Values
 
 The .copy() Method
+
+====================================================================================================
+
+                                Working with Text Data
+
+Intro to the Working with Text Data Module
