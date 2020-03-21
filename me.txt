@@ -165,3 +165,5 @@ The .nsmallest() and .nlargest() Methods
 Filtering with the where Method
 
 The .query() Method
+
+A Review of the .apply() Method on Single Columns
