@@ -144,3 +144,5 @@ Retrieve Row(s) by Index Position with iloc
 Second Arguments to .loc[], .iloc[]
 
 Set New Values for a Specific Cell or Row
+
+Set Multiple Values in DataFrame
