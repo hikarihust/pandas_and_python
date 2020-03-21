@@ -154,3 +154,5 @@ Rename Index Labels or Columns in a DataFrame
     0  1  4
     1  2  5
     2  3  6
+
+Delete Rows or Columns from a DataFrame
