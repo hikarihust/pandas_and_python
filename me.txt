@@ -184,3 +184,5 @@ The .str.replace() Method
 
 Filtering with String Methods
     contains()
+
+More String Methods - strip, lstrip, and rstrip
