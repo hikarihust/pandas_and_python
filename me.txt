@@ -190,3 +190,5 @@ More String Methods - strip, lstrip, and rstrip
 String Methods on Index and Columns
 
 Split Strings by Characters with .str.split() Method
+
+More Practice with Splits
