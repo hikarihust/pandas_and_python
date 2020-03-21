@@ -186,3 +186,5 @@ Filtering with String Methods
     contains()
 
 More String Methods - strip, lstrip, and rstrip
+
+String Methods on Index and Columns
