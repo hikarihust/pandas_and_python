@@ -161,3 +161,5 @@ Create Random Sample
 
 The .nsmallest() and .nlargest() Methods
     keep="all": do not drop any duplicates, even it means selecting more than n items.
+
+Filtering with the where Method
