@@ -179,3 +179,5 @@ The .copy() Method
 Intro to the Working with Text Data Module
 
 Common String Methods - lower, upper, title, and len
+
+The .str.replace() Method
