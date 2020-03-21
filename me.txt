@@ -167,3 +167,5 @@ Filtering with the where Method
 The .query() Method
 
 A Review of the .apply() Method on Single Columns
+
+The .apply() Method with Row Values
