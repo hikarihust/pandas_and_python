@@ -188,3 +188,5 @@ Filtering with String Methods
 More String Methods - strip, lstrip, and rstrip
 
 String Methods on Index and Columns
+
+Split Strings by Characters with .str.split() Method
