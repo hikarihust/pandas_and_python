@@ -223,3 +223,5 @@ The .stack() Method
 The .unstack() Method
 
 The pivot Method
+
+The pivot_table() Method
