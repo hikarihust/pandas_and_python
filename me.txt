@@ -217,3 +217,5 @@ Extract Rows from a MultiIndex DataFrame
 The .transpose() Method
 
 The .swaplevel() Method
+
+The .stack() Method
