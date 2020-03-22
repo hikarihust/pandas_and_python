@@ -215,3 +215,5 @@ The .sort_index() Method on a MultiIndex DataFrame
 Extract Rows from a MultiIndex DataFrame
 
 The .transpose() Method
+
+The .swaplevel() Method
