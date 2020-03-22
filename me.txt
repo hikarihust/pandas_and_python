@@ -213,3 +213,5 @@ The .set_names() Method on MultiIndex
 The .sort_index() Method on a MultiIndex DataFrame
 
 Extract Rows from a MultiIndex DataFrame
+
+The .transpose() Method
