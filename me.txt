@@ -203,3 +203,5 @@ The expand and n Parameters of the .str.split() Method
                                 MultiIndex
 
 Intro to the MultiIndex Module
+
+Create A MultiIndex with the .set_index() Method
