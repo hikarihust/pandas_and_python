@@ -207,3 +207,5 @@ Intro to the MultiIndex Module
 Create A MultiIndex with the .set_index() Method
 
 The .get_level_values() Method
+
+The .set_names() Method on MultiIndex
