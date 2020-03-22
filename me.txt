@@ -211,3 +211,5 @@ The .get_level_values() Method
 The .set_names() Method on MultiIndex
 
 The .sort_index() Method on a MultiIndex DataFrame
+
+Extract Rows from a MultiIndex DataFrame
