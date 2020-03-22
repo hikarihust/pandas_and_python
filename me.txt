@@ -197,3 +197,9 @@ The expand and n Parameters of the .str.split() Method
     chicago[["First Name", "Last Name"]] = chicago["Name"].str.split(",", expand = True)
     chicago["Position Title"].str.split(" ", expand = True, n = 1)[0]
     rsplit
+
+====================================================================================================
+
+                                MultiIndex
+
+Intro to the MultiIndex Module
