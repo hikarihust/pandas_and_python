@@ -225,3 +225,5 @@ The .unstack() Method
 The pivot Method
 
 The pivot_table() Method
+
+The pd.melt() Method
