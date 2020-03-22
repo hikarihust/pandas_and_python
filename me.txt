@@ -192,3 +192,8 @@ String Methods on Index and Columns
 Split Strings by Characters with .str.split() Method
 
 More Practice with Splits
+
+The expand and n Parameters of the .str.split() Method
+    chicago[["First Name", "Last Name"]] = chicago["Name"].str.split(",", expand = True)
+    chicago["Position Title"].str.split(" ", expand = True, n = 1)[0]
+    rsplit
