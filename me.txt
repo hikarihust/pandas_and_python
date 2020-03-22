@@ -219,3 +219,5 @@ The .transpose() Method
 The .swaplevel() Method
 
 The .stack() Method
+
+The .unstack() Method
