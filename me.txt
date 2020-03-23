@@ -227,3 +227,9 @@ The pivot Method
 The pivot_table() Method
 
 The pd.melt() Method
+
+====================================================================================================
+
+                                Group by
+                                
+Intro to the Groupby Module
