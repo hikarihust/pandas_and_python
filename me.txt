@@ -231,5 +231,7 @@ The pd.melt() Method
 ====================================================================================================
 
                                 Group by
-                                
+
 Intro to the Groupby Module
+
+First Operations with groupby Object
