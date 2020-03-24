@@ -237,3 +237,5 @@ Intro to the Groupby Module
 First Operations with groupby Object
 
 Retrieve A Group with the .get_group() Method
+
+Methods on the Groupby Object and DataFrame Columns
