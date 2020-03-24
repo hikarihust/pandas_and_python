@@ -241,3 +241,5 @@ Retrieve A Group with the .get_group() Method
 Methods on the Groupby Object and DataFrame Columns
 
 Grouping by Multiple Columns
+
+The .agg() Method
