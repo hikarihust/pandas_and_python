@@ -243,3 +243,8 @@ Methods on the Groupby Object and DataFrame Columns
 Grouping by Multiple Columns
 
 The .agg() Method
+
+Iterating through Groups
+    loop over grouped Pandas dataframe
+    for name, group in grouped:
+    data.nlargest(1, "Revenue")
