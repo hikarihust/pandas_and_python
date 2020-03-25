@@ -254,3 +254,5 @@ Iterating through Groups
                                 Merging, Joining, and Concatenating
 
 Start
+
+The pd.concat() Method
