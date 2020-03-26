@@ -256,3 +256,5 @@ Iterating through Groups
 Start
 
 The pd.concat() Method
+
+The .append() Method
