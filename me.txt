@@ -258,3 +258,5 @@ Start
 The pd.concat() Method
 
 The .append() Method
+
+Inner Joins
