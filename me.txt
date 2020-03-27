@@ -262,3 +262,5 @@ The .append() Method
 Inner Joins
 
 Outer Joins
+
+Left Joins
