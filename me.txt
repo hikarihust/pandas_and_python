@@ -260,3 +260,5 @@ The pd.concat() Method
 The .append() Method
 
 Inner Joins
+
+Outer Joins
