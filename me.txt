@@ -272,3 +272,9 @@ Merging by Indexes with the left_index and right_index Parameters
 The .join() Method
 
 The pd.merge() Method
+
+====================================================================================================
+
+                                Working with Dates and Times
+
+Start Working with Dates and Times Module
