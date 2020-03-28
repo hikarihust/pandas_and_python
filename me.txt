@@ -282,3 +282,5 @@ Start Working with Dates and Times Module
 Review of Python's datetime Module
 
 The pandas Timestamp Object
+
+The pandas DateTimeIndex Object
