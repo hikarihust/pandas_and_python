@@ -278,3 +278,5 @@ The pd.merge() Method
                                 Working with Dates and Times
 
 Start Working with Dates and Times Module
+
+Review of Python's datetime Module
