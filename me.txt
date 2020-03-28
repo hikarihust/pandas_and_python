@@ -284,3 +284,5 @@ Review of Python's datetime Module
 The pandas Timestamp Object
 
 The pandas DateTimeIndex Object
+
+The pd.to_datetime() Method
