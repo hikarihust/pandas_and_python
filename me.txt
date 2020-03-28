@@ -266,3 +266,5 @@ Outer Joins
 Left Joins
 
 The left_on and right_on Parameters
+
+Merging by Indexes with the left_index and right_index Parameters
