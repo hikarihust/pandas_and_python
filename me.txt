@@ -290,3 +290,8 @@ The pd.to_datetime() Method
 Create Range of Dates with the pd.date_range()
 
 The .dt Accessor
+
+Install pandas-datareader Library
+    Install pandas-datareader: pip install pandas-datareader
+
+Import Financial Data
