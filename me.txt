@@ -303,3 +303,5 @@ Timestamp Object Attributes
 The .truncate() Method
 
 pd.DateOffset Objects
+
+More Fun with pd.DateOffset Objects
