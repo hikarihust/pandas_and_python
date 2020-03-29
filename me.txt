@@ -295,3 +295,5 @@ Install pandas-datareader Library
     Install pandas-datareader: pip install pandas-datareader
 
 Import Financial Data
+
+Selecting from a DataFrame with a DateTimeIndex
