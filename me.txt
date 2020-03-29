@@ -301,3 +301,5 @@ Selecting from a DataFrame with a DateTimeIndex
 Timestamp Object Attributes
 
 The .truncate() Method
+
+pd.DateOffset Objects
