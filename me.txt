@@ -288,3 +288,5 @@ The pandas DateTimeIndex Object
 The pd.to_datetime() Method
 
 Create Range of Dates with the pd.date_range()
+
+The .dt Accessor
