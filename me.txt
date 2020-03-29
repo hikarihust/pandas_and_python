@@ -307,3 +307,6 @@ pd.DateOffset Objects
 More Fun with pd.DateOffset Objects
 
 The Timedelta Object
+
+Timedeltas in a Dataset
+    shipping = pd.read_csv("../ecommerce.csv", index_col = "ID", parse_dates = ["order_date", "delivery_date"])
