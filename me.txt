@@ -297,3 +297,5 @@ Install pandas-datareader Library
 Import Financial Data
 
 Selecting from a DataFrame with a DateTimeIndex
+
+Timestamp Object Attributes
