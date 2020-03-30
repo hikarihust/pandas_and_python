@@ -310,3 +310,12 @@ The Timedelta Object
 
 Timedeltas in a Dataset
     shipping = pd.read_csv("../ecommerce.csv", index_col = "ID", parse_dates = ["order_date", "delivery_date"])
+
+====================================================================================================
+
+                                Input and Output
+
+Feed pd.read_csv() Method a URL Argument
+    data city of new york
+    https://data.cityofnewyork.us/Health/Popular-Baby-Names/25th-nujf/data
+    Export - CSV - Copy link
