@@ -319,3 +319,5 @@ Feed pd.read_csv() Method a URL Argument
     data city of new york
     https://data.cityofnewyork.us/Health/Popular-Baby-Names/25th-nujf/data
     Export - CSV - Copy link
+
+Quick Object Conversions
