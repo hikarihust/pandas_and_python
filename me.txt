@@ -323,3 +323,6 @@ Feed pd.read_csv() Method a URL Argument
 Quick Object Conversions
 
 Export DataFrame to CSV File with the .to_csv() Method
+
+Import Excel File
+    pip install xlrd
