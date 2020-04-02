@@ -326,3 +326,6 @@ Export DataFrame to CSV File with the .to_csv() Method
 
 Import Excel File
     pip install xlrd
+
+Export Excel File
+    pip install openpyxl
