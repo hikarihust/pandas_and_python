@@ -340,3 +340,5 @@ Start
 Changing Options with Attributes and Dot Syntax
 
 Changing pandas Options with Methods
+
+The precision Option
