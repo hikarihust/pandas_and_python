@@ -338,3 +338,5 @@ Export Excel File
 Start
 
 Changing Options with Attributes and Dot Syntax
+
+Changing pandas Options with Methods
